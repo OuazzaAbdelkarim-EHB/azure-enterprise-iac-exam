@@ -1,0 +1,10 @@
+# Terraform & System Ignores
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
+
+# IDE specific
+.idea/
+*.iml

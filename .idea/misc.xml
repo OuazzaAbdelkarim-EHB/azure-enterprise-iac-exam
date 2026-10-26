@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="OpenTofuProjectSettings">
+    <option name="toolPath" value="C:\Users\Abdel\.jetbrains\tofu\tofu.exe" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\Desktop\2. Infrastructure As Code\azure-enterprise-iac-exam\.venv" project-jdk-type="Python SDK" />
+  <component name="TerragruntProjectSettings">
+    <option name="toolPath" value="C:\Users\Abdel\.jetbrains\terragrunt\terragrunt.exe" />
+  </component>
+</project>
